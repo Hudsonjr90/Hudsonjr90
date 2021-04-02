@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 
 ### Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-HudsonKennedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/) [![Gmail Badge](https://img.shields.io/badge/-hudsonhugo90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-HudsonKennedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/) [![Gmail Badge](https://img.shields.io/badge/-hudsonhugo90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com) 
