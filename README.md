@@ -53,6 +53,10 @@ Here are some ideas to get you started:
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
+      <td width="25% align="center">
+        <span>Reactjs</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
+      </td>                                                                                        
         </tr>
   </tbody>
 </table>
