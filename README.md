@@ -53,17 +53,13 @@ Here are some ideas to get you started:
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
-      <td width="25% align="center">
+      <td width="25% align="center"
         <span>Reactjs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
       </td>                                                                                        
         </tr>
   </tbody>
 </table>
-
-<p align="left"><img width=50% src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2019/01/11141142/mercado-front-end-origem-1.png"></p>
-
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=hudshowdr90&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Contato
 
