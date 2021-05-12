@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <p align="left"><img width=50% src="https://dm2306files.storage.live.com/y4mdQwCO9FzkfJWJAarDQEJjOkdO-T673amYtStjbKSfaUKsfqXFqOLHhBHXK2K3PSZZav5gkfnMr9qG7NfH2eim_CetqeyWHqHvxKoIP1I1udZI_Cq6molBuH2lPePDHU02a_51gm-2HbTr_QfAvMrUi_4vlQQ6wisERAa3TyuWSf5cmMVqEdLkD_h0Gv-W_wo?width=496&height=395&cropmode=none"></p>
 
-- Me chamo Hudson Kennedy, tenho 30 anos e estou crescendo na área de tecnologia, cujo estou curtindo muito e aprendendo bastante diariamente, Desenvolvedor Web Jr. sempre disposto a novos desafios, eu sempre me identifiquei com tecnologia e etc..., porém nunca me aventurei, agora estou mergulhando de cabeça nesta área incrível, evoluindo a cada dia e aprendendo coisas novas, sigo estudando e logo irei me tornar um exímio desenvolvedor.
+- Tenho 30 anos e estou crescendo na área de tecnologia, cujo estou curtindo muito e aprendendo bastante diariamente.
+Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei com tecnologia e etc, porém nunca me aventurei, sigo evoluindo a cada dia e aprendendo coisas novas, estudando diariamente para me tornar um exímio desenvolvedor.
 
 ### Linguagens em Aprendizado 🤔⚡🔭
 
