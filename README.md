@@ -41,6 +41,10 @@ Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei c
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
+        <td width="25%" align="center">
+        <span>Figma</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Angular</span><br><br><br>
@@ -57,7 +61,11 @@ Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei c
       <td width="25% align="center"
         <span>Reactjs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
-      </td>                                                                                        
+      </td>  
+          <td width="30%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>                                                                      
         </tr>
   </tbody>
 </table>
