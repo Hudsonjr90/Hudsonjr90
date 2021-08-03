@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-<p align="left"><img width=50% src="https://dm2306files.storage.live.com/y4mdQwCO9FzkfJWJAarDQEJjOkdO-T673amYtStjbKSfaUKsfqXFqOLHhBHXK2K3PSZZav5gkfnMr9qG7NfH2eim_CetqeyWHqHvxKoIP1I1udZI_Cq6molBuH2lPePDHU02a_51gm-2HbTr_QfAvMrUi_4vlQQ6wisERAa3TyuWSf5cmMVqEdLkD_h0Gv-W_wo?width=496&height=395&cropmode=none"></p>
+<p align="left"><img width=50% src="https://scontent.fqnv4-1.fna.fbcdn.net/v/t1.6435-9/108103153_3001152713287267_2268801030162208469_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_ohc=gMkHut-QbBYAX_BR4Ee&_nc_ht=scontent.fqnv4-1.fna&oh=fce6076a77973dfd782268ea63d9bf2d&oe=612D43B4"></p>
 
 - Tenho 30 anos e estou crescendo na área de tecnologia, cujo estou curtindo muito e aprendendo bastante diariamente.
 Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei com tecnologia e etc, porém nunca me aventurei, sigo evoluindo a cada dia e aprendendo coisas novas, estudando diariamente para me tornar um exímio desenvolvedor.
