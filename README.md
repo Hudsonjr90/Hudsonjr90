@@ -25,47 +25,48 @@ Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei c
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-         <td width="25%" align="center">
+         <td width="10%" align="center">
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
-        <td width="25%" align="center">
+        <td width="10%" align="center">
         <span>Figma</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>Angular</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
-       <td width="25%" align="center">
+       <td width="10%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
-      <td width="25%" align="center">
+       <td width="10% align="center"
+        <span>Reactjs</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
+      </td> 
+          <td width="10%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>                                                                                                                                                     
+      <td width="10%" align="center">
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
-      <td width="25% align="center"
-        <span>Reactjs</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
-      </td>  
-          <td width="30%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>                                                                      
+                                                                      
         </tr>
   </tbody>
 </table>
