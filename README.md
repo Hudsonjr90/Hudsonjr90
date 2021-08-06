@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img width=50% src="https://scontent.fqnv4-1.fna.fbcdn.net/v/t1.6435-9/79841762_2534247109977832_3615111970618867712_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=84a396&_nc_ohc=Pd2nMDfPSKgAX-SjfYj&tn=boaN4vYeF1veoTOP&_nc_ht=scontent.fqnv4-1.fna&oh=57321cc56fb53dfc4d91ee43e6a2a1dc&oe=612DDC68"></p>
 
-- Tenho 30 anos e estou crescendo na área de tecnologia, cujo estou curtindo muito e aprendendo bastante diariamente.
+- Tenho 31 anos e estou crescendo na área de tecnologia, cujo estou curtindo muito e aprendendo bastante diariamente.
 Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei com tecnologia e etc, porém nunca me aventurei, sigo evoluindo a cada dia e aprendendo coisas novas, estudando diariamente para me tornar um exímio desenvolvedor.
 
 ### Linguagens em Aprendizado 🤔⚡🔭
@@ -55,7 +55,7 @@ Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei c
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
        <td width="10% align="center"
-        <span>Reactjs</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
       </td> 
           <td width="10%" align="center">
