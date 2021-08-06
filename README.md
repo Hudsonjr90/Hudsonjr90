@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 
 <p align="left"><img width=50% src="https://scontent.fqnv4-1.fna.fbcdn.net/v/t1.6435-9/79841762_2534247109977832_3615111970618867712_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=84a396&_nc_ohc=Pd2nMDfPSKgAX-SjfYj&tn=boaN4vYeF1veoTOP&_nc_ht=scontent.fqnv4-1.fna&oh=57321cc56fb53dfc4d91ee43e6a2a1dc&oe=612DDC68"></p>
 
-- Tenho 31 anos e estou crescendo na área de tecnologia, cujo estou curtindo muito e aprendendo bastante diariamente.
-Desenvolvedor Web Jr. sempre disposto a novos desafios, sempre me identifiquei com tecnologia e etc, porém nunca me aventurei, sigo evoluindo a cada dia e aprendendo coisas novas, estudando diariamente para me tornar um exímio desenvolvedor.
+- Formado em Processos Gerenciais, com ênfase em Gestão e otimização de
+processos, obtive contato com a área comercial, e desde o começo da minha
+experiência Profissional sempre tive a vontade de adquirir mais
+conhecimento e evoluir, tanto pessoalmente como profissionalmente.
+Desde de 2020, tenho a oportunidade de me desenvolver na área de
+tecnologia, me aperfeiçoando como desenvolvedor fullstack, atuando com
+Front-end e Back-end.
 
 ### Linguagens em Aprendizado 🤔⚡🔭
 
