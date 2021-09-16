@@ -1,5 +1,4 @@
 <!--
-
 **hudshowdr90/hudshowdr90** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-<p align="left"><img width=50% src="https://scontent.fqnv4-1.fna.fbcdn.net/v/t1.6435-9/79841762_2534247109977832_3615111970618867712_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=84a396&_nc_ohc=Pd2nMDfPSKgAX-SjfYj&tn=boaN4vYeF1veoTOP&_nc_ht=scontent.fqnv4-1.fna&oh=57321cc56fb53dfc4d91ee43e6a2a1dc&oe=612DDC68"></p>
+<p align="left"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/Hk.jpg"></p>
 
 - Formado em Processos Gerenciais, com ênfase em Gestão e otimização de
 processos, obtive contato com a área comercial, e desde o começo da minha
