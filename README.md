@@ -21,7 +21,7 @@ experiência Profissional sempre tive a vontade de adquirir mais
 conhecimento e evoluir, tanto pessoalmente como profissionalmente.
 Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
-### Linguagens em Aprendizado 🤔⚡🔭
+### Linguagens  🤔⚡🔭
 
 
 <table>
@@ -43,36 +43,39 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
-        <td width="10%" align="center">
+      <td width="10%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>  
+       <td width="10%" align="center">
         <span>Figma</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>              
       </td>
-    <tr valign="top">
+      <tr valign="top">
       <td width="10%" align="center">
         <span>Angular</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
-       <td width="10%" align="center">
+        <td width="10%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-       <td width="10% align="center"
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">   
+       </td>
+        <td width="10%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
-      </td> 
-          <td width="10%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>                                                                                                                                                     
-      <td width="10%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">   
+       </td>
+         <td width="10%" align="center">
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-                                                                      
+      </td>   
         </tr>
+                                                                         
   </tbody>
 </table>
 
+<a href="" target="__blank"><i class="lab la-whatsapp"></i></a>
+
 ### Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-HudsonKennedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/) [![Gmail Badge](https://img.shields.io/badge/-hudsonhugo90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-HudsonKennedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/) [![Gmail Badge](https://img.shields.io/badge/-hudsonhugo90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)![Whatsapp Badge](https://img.shields.io/badge/-(21)969609121-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521969609121)
