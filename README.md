@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 processos, obtive contato com a área comercial, e desde o começo da minha
 experiência Profissional sempre tive a vontade de adquirir mais
 conhecimento e evoluir, tanto pessoalmente como profissionalmente.
-Desde de 2020, tenho a oportunidade de me desenvolver na área de
-tecnologia, me aperfeiçoando como desenvolvedor fullstack, atuando com
-Front-end e Back-end.
+Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
 ### Linguagens em Aprendizado 🤔⚡🔭
 
