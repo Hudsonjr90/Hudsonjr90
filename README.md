@@ -69,7 +69,15 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>   
+        <td width="10%" align="center">
+        <span>Wordpress</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
+      </td>   
+        <td width="10%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
         </tr>
+     
                                                                          
   </tbody>
 </table>
