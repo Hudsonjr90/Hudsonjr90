@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-<p align="left"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/Hk.jpg"></p>
+<p align="left"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/3.svg"></p>
 
 - Formado em Processos Gerenciais, com ênfase em Gestão e otimização de
 processos, obtive contato com a área comercial, e desde o começo da minha
