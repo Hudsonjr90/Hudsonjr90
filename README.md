@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 
 
+<h1>Hudson Kennedy</h1>
+
+
+<p> Desenvolvedor Front-End</P>
+<p> Engenheiro de Software </p>
+<p> UX/UI Designer </P>
+
+
+###
+
 <p align="center"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/3.svg"></p>
 
 
