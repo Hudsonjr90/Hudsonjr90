@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
+
+
 <p align="left"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/3.svg"></p>
+
+
+</br></br>
 
 - Formado em Processos Gerenciais, com ênfase em Gestão e otimização de
 processos, obtive contato com a área comercial, e desde o começo da minha
@@ -21,7 +26,12 @@ experiência Profissional sempre tive a vontade de adquirir mais
 conhecimento e evoluir, tanto pessoalmente como profissionalmente.
 Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
+
+</br></br>
+
 ### Conhecimentos & Habilidades ⚡🔭
+
+</br>
 
 
 <table>
@@ -83,7 +93,15 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 </table>
 
 
+</br></br>
 
 ### Contato
 
+</br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-HudsonKennedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/) [![Gmail Badge](https://img.shields.io/badge/-hudsonhugo90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)[![Whatsapp Badge](https://img.shields.io/badge/-(21)969609121-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521969609121)](https://api.whatsapp.com/send?phone=5521969609121)
+
+
+### 
+
+<p align="left"><img width=50% src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603debd83291d9a8f92383ce_1.png"></p>
