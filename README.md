@@ -21,7 +21,7 @@ experiência Profissional sempre tive a vontade de adquirir mais
 conhecimento e evoluir, tanto pessoalmente como profissionalmente.
 Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
-### Linguagens  🤔⚡🔭
+### Linguagens ⚡🔭
 
 
 <table>
@@ -43,14 +43,14 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
-      <td width="10%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>  
        <td width="10%" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>              
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+        </td> 
+        <td width="10%" align="center">
+        <span>Wordpress</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
+      </td> 
       </td>
       <tr valign="top">
       <td width="10%" align="center">
@@ -68,17 +68,17 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
          <td width="10%" align="center">
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>   
-        <td width="10%" align="center">
-        <span>Wordpress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
-      </td>   
-        <td width="10%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+      </td>     
+          <td width="10%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+        </td>   
+       <td width="10%" align="center">
+        <span>Figma</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>              
         </tr>
-     
-                                                                         
+                                                                        
   </tbody>
 </table>
 
