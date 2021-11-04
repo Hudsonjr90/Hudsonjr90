@@ -82,7 +82,7 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
   </tbody>
 </table>
 
-<a href="" target="__blank"><i class="lab la-whatsapp"></i></a>
+
 
 ### Contato
 
