@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 
 
-<h1>Hudson Kennedy</h1>
+<h1 align="center">Hudson Kennedy</h1>
 
+</br></br>
 
-<p> Desenvolvedor Front-End</P>
-<p> Engenheiro de Software </p>
-<p> UX/UI Designer </P>
+<p align="left"> Desenvolvedor Front-End</P>
+<p align="center"> Engenheiro de Software </p>
+<p align="right"> UX/UI Designer </P>
 
 
 ###
