@@ -21,7 +21,7 @@ experiência Profissional sempre tive a vontade de adquirir mais
 conhecimento e evoluir, tanto pessoalmente como profissionalmente.
 Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
-### Linguagens ⚡🔭
+### Conhecimentos & Habilidades ⚡🔭
 
 
 <table>
