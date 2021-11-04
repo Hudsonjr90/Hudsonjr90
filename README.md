@@ -95,6 +95,11 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
 </br></br>
 
+###
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudsonjr90)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Contato
 
 </br>
