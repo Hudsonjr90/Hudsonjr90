@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/3.svg"></p>
+<p align="center"><img width=50% src="https://hudsonkennedy.vercel.app/assets/img/3.svg"></p>
 
 
 </br></br>
@@ -109,4 +109,4 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
 ### 
 
-<p align="left"><img width=50% src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603debd83291d9a8f92383ce_1.png"></p>
+<p align="center"><img width=50% src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603debd83291d9a8f92383ce_1.png"></p>
