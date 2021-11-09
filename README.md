@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 </br></br>
 
-<p align="left"> Desenvolvedor Front-End</P>
-<p align="center"> Engenheiro de Software </p>
-<p align="right"> UX/UI Designer </P>
+### <p align="left"> Desenvolvedor Front-End</P>
+### <p align="center"> Engenheiro de Software </p>
+### <p align="right"> UX/UI Designer </P>
 
 
 ###
@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 
 </br></br>
 
-- Formado em Processos Gerenciais, com ênfase em Gestão e otimização de
-processos, obtive contato com a área comercial, e desde o começo da minha
-experiência Profissional sempre tive a vontade de adquirir mais
-conhecimento e evoluir, tanto pessoalmente como profissionalmente.
-Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
+### Formado em Processos Gerenciais, com ênfase em Gestão e otimização de processos, obtive contato com a área comercial, e desde o começo da minha experiência Profissional sempre tive a vontade de adquirir mais conhecimento e evoluir, tanto pessoalmente como profissionalmente. Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
 
 </br></br>
@@ -110,13 +106,16 @@ Me aperfeiçoando como desenvolvedor Front-end, atuando com frameworks e etc...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudsonjr90)](https://github.com/anuraghazra/github-readme-stats)
 
+###
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Contato
 
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-HudsonKennedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/) [![Gmail Badge](https://img.shields.io/badge/-hudsonhugo90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)[![Whatsapp Badge](https://img.shields.io/badge/-(21)969609121-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521969609121)](https://api.whatsapp.com/send?phone=5521969609121)
-
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Hudshow90/)](https://www.facebook.com/Hudshow90/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hudsonk.9/)](https://www.instagram.com/hudsonk.9/)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521969609121)](https://api.whatsapp.com/send?phone=5521969609121)
 
 ### 
 
