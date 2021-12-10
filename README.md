@@ -107,11 +107,11 @@ Here are some ideas to get you started:
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudsonjr90)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudsonjr90&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contato
