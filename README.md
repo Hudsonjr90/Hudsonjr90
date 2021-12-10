@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 </br></br>
 
-### Conhecimentos & Habilidades ⚡🔭
+###  <h1 align="left">Conhecimentos & Habilidades ⚡🔭 </h1>
 
 </br>
 
@@ -113,8 +113,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Contato
+### <h1 align="left">Contato</h1>
 
 </br>
 
