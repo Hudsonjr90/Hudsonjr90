@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hudson Kennedy</h1>
+<h1 align="center"> ⚡ Hudson Kennedy ⚡</h1>
 
 </br></br>
 
-### <p align="left"> Desenvolvedor Front-End</P>
-### <p align="center"> Engenheiro de Software </p>
-### <p align="right"> UX/UI Designer </P>
+### <p align="left">:iphone: Desenvolvedor Front-End :iphone:</P>
+### <p align="center">:computer: Engenheiro de Software :computer:</p>
+### <p align="right"> :art: UX/UI Designer :art:</P>
 
 
 ###
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 </br></br>
 
-###  <h1 align="left">Conhecimentos & Habilidades ⚡🔭 </h1>
+###  <h1 align="left">Conhecimentos & Habilidades 🔭 </h1>
 
 </br>
 
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### <h1 align="left">Contato</h1>
+### <h1 align="left">Contato :calling:</h1>
 
 </br>
 
