@@ -116,12 +116,12 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
         </td>
         <td width="10%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-        </td> 
-        <td width="10%" align="center">
         <span>Less</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+        </td> 
+        <td width="10%" align="center">
+        <span>Sass</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
         </td> 
       </td>
       <tr valign="top">
