@@ -47,57 +47,111 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+        <td width="10%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="10%" align="center">
+        </td>
+        <td width="10%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="10%" align="center">
+        </td>
+        <td width="10%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-         <td width="10%" align="center">
+        </td>
+        <td width="10%" align="center">
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-       <td width="10%" align="center">
+        </td>
+        <td width="10%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
         </td> 
         <td width="10%" align="center">
         <span>Wordpress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
-      </td> 
+        </td> 
       </td>
       <tr valign="top">
-      <td width="10%" align="center">
+        <td width="10%" align="center">
         <span>Angular</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
-      </td>
+        </td>
         <td width="10%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">   
-       </td>
+        </td>
         <td width="10%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">   
-       </td>
-         <td width="10%" align="center">
+        </td>
+        <td width="10%" align="center">
         <span>Nodejs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>     
-          <td width="10%" align="center">
+        </td>     
+        <td width="10%" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
         </td>   
-       <td width="10%" align="center">
+        <td width="10%" align="center">
         <span>Figma</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>              
-        </tr>
+        </td>              
+      </tr>
+  <tr valign="top">
+        <td width="10%" align="center">
+        <span>Gitlab</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>NPM</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Yarn</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/yarn.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Sass</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+        </td> 
+        <td width="10%" align="center">
+        <span>Less</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+        </td> 
+      </td>
+      <tr valign="top">
+        <td width="10%" align="center">
+        <span>Markdown</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">   
+        </td>
+        <td width="10%" align="center">
+        <span>Sketch</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sketch.svg">   
+        </td>
+        <td width="10%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        </td>     
+        <td width="10%" align="center">
+        <span>Tailwind CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+        </td>   
+        <td width="10%" align="center">
+        <span>Chakra-UI</span><br><br><br>
+        <img height="80px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">
+        </td>              
+      </tr>
+  
+  
                                                                         
   </tbody>
 </table>
