@@ -68,8 +68,8 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
         </td> 
         <td width="10%" align="center">
-        <span>Wordpress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
+        <span>Gitlab</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
         </td> 
       </td>
       <tr valign="top">
@@ -100,8 +100,8 @@ Here are some ideas to get you started:
       </tr>
   <tr valign="top">
         <td width="10%" align="center">
-        <span>Gitlab</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
         </td>
         <td width="10%" align="center">
         <span>NPM</span><br><br><br>
@@ -138,9 +138,87 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/sketch.svg">   
         </td>
         <td width="10%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <span>Wordpress</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
         </td>     
+        <td width="10%" align="center">
+        <span>Shopify</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/shopify.svg">
+        </td>   
+        <td width="10%" align="center">
+        <span>ERP Bling</span><br><br><br>
+        <img height="64px" src="https://www.bling.com.br/site/assets//images/bling.svg">
+        </td>              
+      </tr>
+       <tr valign="top">
+        <td width="10%" align="center">
+        <span>Mongo DB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Maria DB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mariadb.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Postgre SQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Express</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+        </td> 
+        <td width="10%" align="center">
+        <span>Next.Js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        </td> 
+      </td>
+      <tr valign="top">
+        <td width="10%" align="center">
+        <span>Strapi</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/strapi.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Babel</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg">   
+        </td>
+        <td width="10%" align="center">
+        <span>Webpack</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">   
+        </td>
+        <td width="10%" align="center">
+        <span>Jest</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
+        </td>     
+        <td width="10%" align="center">
+        <span>GraphQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+        </td>   
+        <td width="10%" align="center">
+        <span>Postman</span><br><br><br>
+        <img height="80px" src="https://cdn.svgporn.com/logos/postman.svg">
+        </td>              
+      </tr>
+      <tr valign="top">
+        <td width="10%" align="center">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Evernote</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/evernote-icon.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Mongoose</span><br><br><br>
+        <img height="64px" src="https://docs.nestjs.kr/assets/logo-small.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Nginx</span><br><br><br>
+        <img height="64px" src="https://blog.corujadeti.com.br/wp-content/uploads/2016/06/nginx-logo-square.png">
+        </td>
         <td width="10%" align="center">
         <span>Tailwind CSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
@@ -148,8 +226,10 @@ Here are some ideas to get you started:
         <td width="10%" align="center">
         <span>Chakra-UI</span><br><br><br>
         <img height="80px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">
-        </td>              
-      </tr>
+        </td>         
+  
+  
+  </tr>
   
   
                                                                         
