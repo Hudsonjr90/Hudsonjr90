@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   <tr valign="top">
         <td width="10%" align="center">
         <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <img height="64px" src="https://t.ctcdn.com.br/eHmBjfca_uBY6QBshhapIl-0LWo=/0x220:900x727/900x506/smart/filters:format(webp)/i544346.jpeg">
         </td>
         <td width="10%" align="center">
         <span>NPM</span><br><br><br>
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
       <tr valign="top">
         <td width="10%" align="center">
         <span>Markdown</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+        <img height="64px" src="https://miro.medium.com/max/1400/1*zv16_HpmtjBQ3QfObwGkiA.jpeg">
         </td>
         <td width="10%" align="center">
         <span>PHP</span><br><br><br>
@@ -169,11 +169,11 @@ Here are some ideas to get you started:
         </td>
         <td width="10%" align="center">
         <span>Express</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+        <img height="64px" src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f">
         </td> 
         <td width="10%" align="center">
         <span>Next.Js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="64px" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25">
         </td> 
       </td>
       <tr valign="top">
@@ -221,7 +221,7 @@ Here are some ideas to get you started:
         </td>
         <td width="10%" align="center">
         <span>Tailwind CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
         </td>   
         <td width="10%" align="center">
         <span>Chakra-UI</span><br><br><br>
