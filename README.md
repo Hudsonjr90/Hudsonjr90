@@ -212,7 +212,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/evernote-icon.svg">
         </td>
         <td width="10%" align="center">
-        <span>Mongoose</span><br><br><br>
+        <span>Nest</span><br><br><br>
         <img height="64px" src="https://docs.nestjs.kr/assets/logo-small.svg">
         </td>
         <td width="10%" align="center">
