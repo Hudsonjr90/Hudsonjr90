@@ -213,7 +213,7 @@ Here are some ideas to get you started:
         </td>
         <td width="10%" align="center">
         <span>Nest</span><br><br><br>
-        <img height="64px" src="https://docs.nestjs.kr/assets/logo-small.svg">
+        <img height="64px" src="https://docs.nestjs.com/assets/logo-small.svg">
         </td>
         <td width="10%" align="center">
         <span>Nginx</span><br><br><br>
@@ -227,8 +227,6 @@ Here are some ideas to get you started:
         <span>Chakra-UI</span><br><br><br>
         <img height="80px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">
         </td>         
-  
-  
   </tr>
   
   
