@@ -84,11 +84,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
         </td>              
       </tr>
-  <tr valign="top">
-        <td width="10%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://t.ctcdn.com.br/eHmBjfca_uBY6QBshhapIl-0LWo=/0x220:900x727/900x506/smart/filters:format(webp)/i544346.jpeg">
-        </td>
+  <tr valign="top">  
         <td width="10%" align="center">
         <span>NPM</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
@@ -96,11 +92,7 @@
         <td width="10%" align="center">
         <span>Yarn</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/yarn.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Laravel</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-        </td>
+        </td>    
         <td width="10%" align="center">
         <span>Less</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
@@ -109,20 +101,6 @@
         <span>Sass</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
         </td> 
-      </td>
-      <tr valign="top">
-        <td width="10%" align="center">
-        <span>Markdown</span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/1400/1*zv16_HpmtjBQ3QfObwGkiA.jpeg">
-        </td>
-        <td width="10%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">   
-        </td>
-        <td width="10%" align="center">
-        <span>Sketch</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sketch.svg">   
-        </td>
         <td width="10%" align="center">
         <span>Wordpress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
@@ -130,92 +108,10 @@
         <td width="10%" align="center">
         <span>Shopify</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/shopify.svg">
-        </td>   
-        <td width="10%" align="center">
-        <span>ERP Bling</span><br><br><br>
-        <img height="64px" src="https://www.bling.com.br/site/assets//images/bling.svg">
-        </td>              
+        </td>                
       </tr>
-       <tr valign="top">
-        <td width="10%" align="center">
-        <span>Mongo DB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Maria DB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mariadb.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Postgre SQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Express</span><br><br><br>
-        <img height="64px" src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f">
-        </td> 
-        <td width="10%" align="center">
-        <span>Next.Js</span><br><br><br>
-        <img height="64px" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25">
-        </td> 
-      </td>
-      <tr valign="top">
-        <td width="10%" align="center">
-        <span>Strapi</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/strapi.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Babel</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg">   
-        </td>
-        <td width="10%" align="center">
-        <span>Webpack</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">   
-        </td>
-        <td width="10%" align="center">
-        <span>Jest</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
-        </td>     
-        <td width="10%" align="center">
-        <span>GraphQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
-        </td>   
-        <td width="10%" align="center">
-        <span>Postman</span><br><br><br>
-        <img height="80px" src="https://cdn.svgporn.com/logos/postman.svg">
-        </td>              
-      </tr>
-      <tr valign="top">
-        <td width="10%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Evernote</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/evernote-icon.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Nest</span><br><br><br>
-        <img height="64px" src="https://docs.nestjs.com/assets/logo-small.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Nginx</span><br><br><br>
-        <img height="64px" src="https://blog.corujadeti.com.br/wp-content/uploads/2016/06/nginx-logo-square.png">
-        </td>
-        <td width="10%" align="center">
-        <span>Tailwind CSS</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
-        </td>   
-        <td width="10%" align="center">
-        <span>Chakra-UI</span><br><br><br>
-        <img height="80px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">
-        </td>         
   </tr>
-  
-  
+ 
                                                                         
   </tbody>
 </table>
