@@ -12,7 +12,7 @@
 
 
 
-### Olá, me chamo Hudson, tenho 31 anos e moro no Rio de Janeiro-RJ.
+### Olá, me chamo Hudson, tenho 32 anos e moro no Rio de Janeiro-RJ.
 ### Formado em Processos Gerenciais, com ênfase em Gestão e otimização de processos, obtive contato com a área de tecnologia e desde o começo da minha experiência Profissional sempre tive a vontade de adquirir mais conhecimento e evoluir profissionalmente.
 
 ### Estou me aperfeiçoando diariamente como Desenvolvedor Front-end buscando adquirir mais experiência.
