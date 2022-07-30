@@ -5,17 +5,18 @@
 
 </br></br>
 
-### <p align="left">:iphone: Desenvolvedor Front-End :iphone:</P>
-### <p align="center">:computer: Engenheiro de Software :computer:</p>
-### <p align="right"> :art: UX/UI Designer :art:</P>
+## <p align="left">:iphone: Desenvolvedor Front-End :iphone:</P>
+## <p align="center">:computer: Engenheiro de Software :computer:</p>
+## <p align="right"> :art: UX/UI Designer :art:</P>
 
+### Iniciei na área de tecnologia uns 10 anos atrás, onde programava em VB, 
+### e desde o final de 2019, retornei para área de tecnologia onde iniciei estudando Javascript, HTML e CSS, e até hoje continuo 
+### estudando e fazendo diversos cursos também sobre bibliotecas/frameworks de Javascript
+### como: Angular, React, Vue e Svelte recentemente para me aprimorar e avançar na área.
 
+### Em Março de 2022 terminei meu MBA em Engenharia de Software, onde aprendi diversas coisas novas e agora pretendo por em prática.</p></span>
 
-
-### Olá, me chamo Hudson, tenho 32 anos e moro no Rio de Janeiro-RJ.
-### Formado em Processos Gerenciais, com ênfase em Gestão e otimização de processos, obtive contato com a área de tecnologia e desde o começo da minha experiência Profissional sempre tive a vontade de adquirir mais conhecimento e evoluir profissionalmente.
-
-### Estou me aperfeiçoando diariamente como Desenvolvedor Front-end buscando adquirir mais experiência.
+### Seguirei me aperfeiçoando diariamente como Desenvolvedor e Engenheiro de Software Front-end!</p></span>
 
 
 </br></br>
