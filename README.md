@@ -50,8 +50,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
         </td> 
         <td width="10%" align="center">
-        <span>Gitlab</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
+        <span>Svelte</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/svelte.svg">
+        </td> 
+        <td width="10%" align="center">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
         </td> 
       </td>
       <tr valign="top">
@@ -78,7 +82,11 @@
         <td width="10%" align="center">
         <span>Figma</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-        </td>              
+        </td>  
+        <td width="10%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+        </td> 
       </tr>
   <tr valign="top">  
         <td width="10%" align="center">
@@ -104,8 +112,29 @@
         <td width="10%" align="center">
         <span>Shopify</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/shopify.svg">
-        </td>                
+        </td> 
+        <td width="10%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+        </td>   
       </tr>
+      <tr valign="top">
+        <td width="10%" align="center">
+        <span>Webpack</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Tailwind CSS</span><br><br><br>
+        <img height="64px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg">
+        </td>
+        <td width="10%" align="center">
+        <span>Markdown</span><br><br><br>
+        <img height="64px" src="https://www.iconbolt.com/preview/facebook/remix-icon-fill/markdown.svg">
+        </td>
+        <td width="10%" align="center">
+        <span>Photoshop</span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png">
+        </td>
   </tr>
  
                                                                         
