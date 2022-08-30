@@ -128,8 +128,7 @@
 </br>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Hudshow90/)](https://www.facebook.com/Hudshow90/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_hudson.9kj/)](https://www.instagram.com/_hudson.9kj/)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521969609121)](https://api.whatsapp.com/send?phone=5521969609121)
-###
-<p align="left"><img width=100% src="https://hudsonkennedy.vercel.app/assets/img/snk.svg"></p>
+
 
 ### 
 
