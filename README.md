@@ -124,8 +124,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
         </td>
         <td width="10%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg">
+        </td>
+        <td width="10%" align="center">
+        <span>Springboot</span><br><br><br>
+        <img height="64px" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png">
+        </td>
+        <td width="10%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://coffops.com/wp-content/uploads/2020/12/postgresql-logo.jpg">
+        </td>
+        <td width="10%" align="center">
         <span>Tailwind CSS</span><br><br><br>
-        <img height="64px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg">
+        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
         </td>
         <td width="10%" align="center">
         <span>Markdown</span><br><br><br>
@@ -135,6 +147,7 @@
         <span>Photoshop</span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png">
         </td>
+        
   </tr>
  
                                                                         
