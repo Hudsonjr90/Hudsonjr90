@@ -5,7 +5,7 @@
 
 </br></br>
 
-## <p align="left">:iphone: Desenvolvedor Front-End :iphone:</P>
+## <p align="left">:iphone: Desenvolvedor Fullstack :iphone:</P>
 ## <p align="center">:computer: Engenheiro de Software :computer:</p>
 ## <p align="right"> :art: UX/UI Designer :art:</P>
 
