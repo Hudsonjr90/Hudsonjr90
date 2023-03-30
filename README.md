@@ -5,9 +5,8 @@
 
 </br></br>
 
-## <p align="left">:iphone: Desenvolvedor Fullstack :iphone:</P>
-## <p align="center">:computer: Engenheiro de Software :computer:</p>
-## <p align="right"> :art: UX/UI Designer :art:</P>
+## <p align="left">:iphone: Desenvolvedor Fullstack :computer: Engenheiro de Software :art: UX/UI Designer</P>
+
 
 ### Iniciei na área de tecnologia uns 10 anos atrás, onde programava em VB, 
 ### e desde o final de 2019, retornei para área de tecnologia onde iniciei estudando Javascript, HTML e CSS, e até hoje continuo 
