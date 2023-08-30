@@ -1,176 +1,30 @@
+# 💫 About Me:
+Em contato com a área de tecnologia por mais de 10 anos, onde comecei a desenvolver em VB.net, durante a jornada de aprendizado, fui fazendo alguns cursos, em 2018 iniciei meu Tecnólogo em processos gerenciais e me formei em 2020, neste período continuei em contato com a área de tecnologia, onde comecei a estudar Javascript e Typescript, para trabalhar específicamente no Frontend, que também fiz diversos cursos para me aprimorar, e evoluir profissionalmente.<br>Em 2021 iniciei o MBA em Engenharia de Software, me formei em 2022 onde aprendi muitas coisas sobre Backend e etc...<br>Em fevereiro de 2023 iniciei meu Mestrado que atua dentro do programa de pós-graduação em Ciência da Computação, na Universidade de Harvard e me formei.<br>Continuarei me aprimorando como Desenvolvedor Fullstack e Engenheiro de Software, adquirindo mais experiência e contribuindo com meu time!
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HudsonKennedy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hudson.9kj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hudsonkennedyjr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hebertlp) 
 
-<h1 align="center"> ⚡ Hudson Kennedy ⚡</h1>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hudsonjr90&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hudsonjr90&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</br></br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hudsonjr90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## <p align="left">:iphone: Desenvolvedor Fullstack :computer: Engenheiro de Software :art: UX/UI Designer</P>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hudsonjr90&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Iniciei na área de tecnologia uns 10 anos atrás, onde programava em VB, 
-### e desde o final de 2019, retornei para área de tecnologia onde iniciei estudando Javascript, HTML e CSS, e até hoje continuo 
-### estudando e fazendo diversos cursos também sobre bibliotecas/frameworks de Javascript
-### como: Angular, React, Vue e Svelte recentemente para me aprimorar e avançar na área.
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### Em Março de 2022 terminei meu MBA em Engenharia de Software, onde aprendi diversas coisas novas e agora pretendo por em prática.</p></span>
+---
+[![](https://visitcount.itsvg.in/api?id=Hudsonjr90&icon=0&color=3)](https://visitcount.itsvg.in)
 
-### Seguirei me aperfeiçoando diariamente como Desenvolvedor e Engenheiro de Software Front-end!</p></span>
-
-
-</br></br>
-
-###  <h1 align="left">Conhecimentos & Habilidades 🔭 </h1>
-
-</br>
-
-
-<table>
-  <tbody>
-    <tr valign="top">
-        <td width="10%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-        </td> 
-        <td width="10%" align="center">
-        <span>Svelte</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/svelte.svg">
-        </td> 
-        <td width="10%" align="center">
-        <span>Laravel</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-        </td> 
-      </td>
-      <tr valign="top">
-        <td width="10%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">   
-        </td>
-        <td width="10%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">   
-        </td>
-        <td width="10%" align="center">
-        <span>Nodejs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-        </td>     
-        <td width="10%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-        </td>   
-        <td width="10%" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-        </td>  
-        <td width="10%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-        </td> 
-      </tr>
-  <tr valign="top">  
-        <td width="10%" align="center">
-        <span>NPM</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Yarn</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/yarn.svg">
-        </td>    
-        <td width="10%" align="center">
-        <span>Less</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-        </td> 
-        <td width="10%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-        </td> 
-        <td width="10%" align="center">
-        <span>Wordpress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
-        </td>     
-        <td width="10%" align="center">
-        <span>Shopify</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/shopify.svg">
-        </td> 
-        <td width="10%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-        </td>   
-      </tr>
-      <tr valign="top">
-        <td width="10%" align="center">
-        <span>Webpack</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg">
-        </td>
-        <td width="10%" align="center">
-        <span>Springboot</span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png">
-        </td>
-        <td width="10%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://coffops.com/wp-content/uploads/2020/12/postgresql-logo.jpg">
-        </td>
-        <td width="10%" align="center">
-        <span>Tailwind CSS</span><br><br><br>
-        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
-        </td>
-        <td width="10%" align="center">
-        <span>Markdown</span><br><br><br>
-        <img height="64px" src="https://www.iconbolt.com/preview/facebook/remix-icon-fill/markdown.svg">
-        </td>
-        <td width="10%" align="center">
-        <span>Photoshop</span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png">
-        </td>
-        
-  </tr>
- 
-                                                                        
-  </tbody>
-</table>
-
-
-</br></br>
-
-###
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudsonjr90&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonjr90&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### <h1 align="left">Contato :calling:</h1>
-
-</br>
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Hudshow90/)](https://www.facebook.com/Hudshow90/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hudsonhugo90@gmail.com)](mailto:hudsonhugo90@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_hudson.9kj/)](https://www.instagram.com/_hudson.9kj/)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hudson-kennedy-809720127/)](https://www.linkedin.com/in/hudson-kennedy-809720127/)[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521969609121)](https://api.whatsapp.com/send?phone=5521969609121)
-
-
-### 
-
-<p align="center"><img width=50% src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603debd83291d9a8f92383ce_1.png"></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
